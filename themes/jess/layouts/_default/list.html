@@ -1,4 +1,13 @@
-hi
-{{ range sort .Paginator.Pages }}
-  umm <a href="{{ .Permalink }}">{{ .Title }}</a>
+<ul>
+{{ range sort .Pages }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    supports <strong>{{ .Params.core_value }}</strong>
+    and is featured in
+    {{ range first 1 .Params.featured_in }}
+      <em>{{ .title }}</em>
+    {{ end }}
+  </li>
+
 {{ end }}
+</ul>
