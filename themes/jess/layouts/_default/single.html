@@ -1,5 +1,15 @@
-i am a single page for {{ .Title }}
+<h1>{{ .Title }}</h1>
 
-<p>Here is content:</p>
+<p>{{ .Params.core_value }}</p>
+
+<p>{{ .Title }} is featured in:</p>
+
+<ul>
+{{ range .Params.featured_in }}
+  <li>{{ .title }}</li>
+{{ end }}
+</ul>
+
+<hr>
 
 {{ .Content }}
