@@ -1,0 +1,4 @@
+baseURL = "http://jessklein.is/"
+languageCode = "en-us"
+title = "Jess Klein is a maker"
+theme = "jess"

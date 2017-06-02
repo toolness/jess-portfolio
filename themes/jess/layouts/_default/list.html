@@ -1,0 +1,4 @@
+hi
+{{ range sort .Paginator.Pages }}
+  umm <a href="{{ .Permalink }}">{{ .Title }}</a>
+{{ end }}
