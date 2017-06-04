@@ -1,7 +1,7 @@
 html {
   /* This PNG is made by Tomislava Babić and taken from:
    * https://www.toptal.com/designers/subtlepatterns/?s=hip+square */
-  background: url(../img/hip-square.png);
+  background: url(../vendor/subtlepatterns/hip-square.png);
 }
 
 .section.is-jess-header {
