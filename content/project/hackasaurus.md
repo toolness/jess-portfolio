@@ -1,6 +1,10 @@
 ---
 title: Hackasaurus
 core_value: "learning through making"
+featured_img_alt_text: |
+  A playful drawing of the mascot of Hackasaurus, a girl in a yellow
+  outfit with a blue cape and goggles. She is holding a laptop and
+  it is plugged into the word "remix".
 quote: |
   I’m proud of this project because it impacted the way that
   out-of-school programs approach coding.
