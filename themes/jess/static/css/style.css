@@ -3,3 +3,14 @@ html {
    * https://www.toptal.com/designers/subtlepatterns/?s=hip+square */
   background: url(../img/hip-square.png);
 }
+
+.section.is-jess-header {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  background: inherit;
+}
+
+.section.is-jess-header h1 {
+  font-size: 2rem;
+  font-weight: 600;
+}
