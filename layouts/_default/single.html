@@ -1,13 +1,19 @@
 {{ partial "header" . }}
 
 <div class="content has-text-centered">
-  <p>good design should support <strong>{{ .Params.core_value }}</strong></p>
+  <p>Good design should support <strong>{{ .Params.core_value }}</strong></p>
   <h2>{{ .Title }}</h2>
+  <br>
+  {{ range .Params.links }}
+  <a class="button" href="{{ .url }}" target="_blank">{{ .title }}</a>
+  {{ end }}
 </div>
 
 <img src="/img/project/{{ .Source.BaseFileName }}/_featured.png">
 
 <div class="content">
+
+<blockquote>&ldquo;{{ .Params.quote }}&rdquo;</blockquote>
 
 {{ .Content }}
 
