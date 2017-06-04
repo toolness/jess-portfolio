@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://jessklein.is/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jessklein.is/project/hackasaurus/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jessklein.is/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jessklein.is/project/odk/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jessklein.is/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jessklein.is/project/rockaway/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jessklein.is/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
