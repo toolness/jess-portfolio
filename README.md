@@ -11,8 +11,8 @@
 
 ## Starting a new project
 
-1. Come up with a slug for your project. For the rest of these
-   instructions we'll assume it's `my-cool-project`.
+1. Come up with a slug for your project. For the rest of this section
+   we'll assume it's `my-cool-project`.
 
 2. Run `bash newproject.sh my-cool-project`.
 
@@ -25,6 +25,28 @@
 
 5. Be sure to add the new files to your git repository with e.g.
    `git add content static`.
+
+### Adding images and other static assets
+
+Static assets for your project are stored in
+`static/project/my-cool-project`, so if you want to add any images
+or other embedded content to you project page, you'll want to put it
+there.
+
+When you reference the asset from your project's markdown file,
+you only need to include its filename, because the asset will be in
+the same directory as the project page when the static site is generated.
+
+For example, let's say you have a picture called `boop.jpg` that you'd
+like to add to your project page. To do this:
+
+1. First, copy the file to `static/project/my-cool-project/boop.jpg`.
+
+2. Add the following to the body of `content/project/my-cool-project.md`:
+
+   ```html
+   <img src="boop.jpg" alt="some alt text">
+   ```
 
 ## Directory structure
 
