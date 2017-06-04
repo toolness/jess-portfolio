@@ -7,8 +7,6 @@ featured_in:
 highlight: blue
 ---
 
-<img src="/img/hackasaurus.png">
-
 TRY <a href="#">HACKASAURUS</a>
 
 VIEW A <a href="#">HACKASAURUS DEMO</a>

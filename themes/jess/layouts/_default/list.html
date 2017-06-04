@@ -2,6 +2,7 @@
 <ul>
 {{ range sort .Pages }}
   <li>
+    <img src="/img/project/{{ .Source.BaseFileName }}/_featured.png">
     <a href="{{ .Permalink }}">{{ .Title }}</a>
     supports <strong>{{ .Params.core_value }}</strong>
     and is featured in
