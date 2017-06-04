@@ -9,6 +9,23 @@
 
 * Visit http://localhost:1313/.
 
+## Starting a new project
+
+1. Come up with a slug for your project. For the rest of these
+   instructions we'll assume it's `my-cool-project`.
+
+2. Run `bash newproject.sh my-cool-project`.
+
+3. Edit `content/project/my-cool-project.md` to your liking, filling out
+   its [project metadata](#project-metadata).
+
+4. By default, your project has a placeholder featured image. You'll
+   want to give it a real one by overwriting
+   `static/img/project/my-cool-project/_featured.png`.
+
+5. Be sure to add the new files to your git repository with e.g.
+   `git add content static`.
+
 ## Directory structure
 
 * `content/project/` contains all the individual projects in the
@@ -33,6 +50,9 @@
   site in whenever you run `hugo` without any arguments. It's not
   part of the actual git repository because it's automatically generated
   by all the other files in the repository.
+
+* `archetypes/` contains a template for new project markdown files, used
+  when you [start a new project](#starting-a-new-project).
 
 ## Project metadata
 
