@@ -2,18 +2,21 @@
 
 {{ $cols := 3 }}
 
-<div class="columns">
-{{ range $i, $page := sort .Pages }}
-  <div class="column">
-    <img src="/img/project/{{ .Source.BaseFileName }}/_featured.png">
-    <a href="{{ $page.Permalink }}">{{ .Title }}</a>
-    supports <strong>{{ .Params.core_value }}</strong>
-    and is featured in
-    {{ range first 1 .Params.featured_in }}
-      <em>{{ .title }}</em>
-    {{ end }}
-  </div>
+{{ $pages := sort .Pages }}
+
+{{ range $i, $page := $pages }}
+  {{ $isLast := (eq $i (sub (len $pages) 1)) }}
+  {{ if modBool $i $cols }}<div class="columns">{{ end }}
+    <div class="column">
+      <img src="/img/project/{{ .Source.BaseFileName }}/_featured.png">
+      <a href="{{ $page.Permalink }}">{{ .Title }}</a>
+      supports <strong>{{ .Params.core_value }}</strong>
+      and is featured in
+      {{ range first 1 .Params.featured_in }}
+        <em>{{ .title }}</em>
+      {{ end }}
+    </div>
+  {{ if or (modBool (add $i 1) $cols) $isLast }}</div>{{ end }}
 {{ end }}
-</div>
 
 {{ partial "footer" . }}
