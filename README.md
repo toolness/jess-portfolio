@@ -1,4 +1,4 @@
-To get started:
+## Quick start
 
 * [Download Hugo](https://github.com/spf13/hugo/releases).
 
@@ -8,3 +8,7 @@ To get started:
 * Run `hugo serve` in the root of this repository.
 
 * Visit http://localhost:1313/.
+
+## Deployment
+
+Run `bash deploy.sh`.
