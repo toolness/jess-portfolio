@@ -21,7 +21,7 @@
 
 4. By default, your project has a placeholder featured image. You'll
    want to give it a real one by overwriting
-   `static/img/project/my-cool-project/_featured.png`.
+   `static/project/my-cool-project/_featured.png`.
 
 5. Be sure to add the new files to your git repository with e.g.
    `git add content static`.
@@ -42,6 +42,10 @@
 
 * `static/` contains all the static assets for the site--e.g., JS, CSS,
   images, and so forth.
+
+* `static/project/` contains static files relevant to a specific project,
+  e.g. its featured image and any associated pictures that are shown
+  on its detail page.
 
 * `static/vendor/` contains static files that are provided by
   third-party sources.
