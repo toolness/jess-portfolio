@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Jess Klein is a maker</title>
-    <link>http://jessklein.is/project/</link>
+    <link>https://toolness.github.io/jess-portfolio/project/</link>
     <description>Recent content in Projects on Jess Klein is a maker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://jessklein.is/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://toolness.github.io/jess-portfolio/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hackasaurus</title>
-      <link>http://jessklein.is/project/hackasaurus/</link>
+      <link>https://toolness.github.io/jess-portfolio/project/hackasaurus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jessklein.is/project/hackasaurus/</guid>
+      <guid>https://toolness.github.io/jess-portfolio/project/hackasaurus/</guid>
       <description>TRY HACKASAURUS
 VIEW A HACKASAURUS DEMO
 TRY LOVEBOMB
@@ -27,19 +27,19 @@ DESIGN STRATEGY Help teens hack the websites that they regularly visit.</descrip
     
     <item>
       <title>Open Design Kit</title>
-      <link>http://jessklein.is/project/odk/</link>
+      <link>https://toolness.github.io/jess-portfolio/project/odk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jessklein.is/project/odk/</guid>
+      <guid>https://toolness.github.io/jess-portfolio/project/odk/</guid>
       <description>TODO: Fill this out.</description>
     </item>
     
     <item>
       <title>Rockaway</title>
-      <link>http://jessklein.is/project/rockaway/</link>
+      <link>https://toolness.github.io/jess-portfolio/project/rockaway/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jessklein.is/project/rockaway/</guid>
+      <guid>https://toolness.github.io/jess-portfolio/project/rockaway/</guid>
       <description>TODO: Fill this out.</description>
     </item>
     
