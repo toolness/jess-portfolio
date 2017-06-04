@@ -14,9 +14,7 @@ links:
   - title: "Read the blogpost"
     url: http://example.org/
 featured_in:
-  - title: "The Atlantic"
-  - title: "Creative Bloq"
-highlight: blue
+  title: "The Atlantic"
 ---
 
 ## Challenge

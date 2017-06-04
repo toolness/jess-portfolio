@@ -17,10 +17,7 @@
       </a>
       <a href="{{ $page.Permalink }}">{{ .Title }}</a>
       supports <strong>{{ .Params.core_value }}</strong>
-      and is featured in
-      {{ range first 1 .Params.featured_in }}
-        <em>{{ .title }}</em>
-      {{ end }}
+      and is featured in <em>{{ .Params.featured_in.title }}</em>.
     </div>
   {{ if or (modBool (add $i 1) $cols) $isLast }}</div>{{ end }}
 {{ end }}
