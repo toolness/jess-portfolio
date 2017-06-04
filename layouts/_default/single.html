@@ -1,18 +1,16 @@
 {{ partial "header" . }}
-<h1>{{ .Title }}</h1>
 
-<p>{{ .Params.core_value }}</p>
+<div class="content has-text-centered">
+  <p>good design should support <strong>{{ .Params.core_value }}</strong></p>
+  <h2>{{ .Title }}</h2>
+</div>
 
-<p>{{ .Title }} is featured in:</p>
+<img src="/img/project/{{ .Source.BaseFileName }}/_featured.png">
 
-<ul>
-{{ range .Params.featured_in }}
-  <li>{{ .title }}</li>
-{{ end }}
-</ul>
-
-<hr>
+<div class="content">
 
 {{ .Content }}
+
+</div>
 
 {{ partial "footer" . }}
