@@ -4,7 +4,7 @@ core_value: "collaboration"
 quote: |
   I work with people who love “open design” in theory, but we needed a common set of methods so that on a very practical level, every project stakeholder understands how to collaborate.
 featured_in:
-  title: "NewCo Shift"
+  title: "the Creative Commons Summit"
   links:
     - title: "Try it"
       url: http://opendesignkit.org/
