@@ -115,6 +115,17 @@ fields we use:
 
   * `title` is the name of the publication.
 
+## CSS
+
+This project uses [Bulma][] for styling.
+
+All of our own first-party CSS is in
+[static/css/style.css](static/css/style.css).
+
+In general, we try to put the word `jess` somewhere in the names of
+first-party classes, to easily distinguish them from Bulma's built-in
+classes.
+
 ## Deployment
 
 Run `bash deploy.sh`.
@@ -122,3 +133,4 @@ Run `bash deploy.sh`.
 
 [Go templates]: https://gohugo.io/templates/go-templates/
 [YAML]: https://en.wikipedia.org/wiki/YAML#Basic_components
+[Bulma]: http://bulma.io/
