@@ -11,8 +11,6 @@ links:
 - title: Read the blogpost
   url: http://jessicaklein.blogspot.com/2014/08/remix-hack-firefox-home-page-no-really.html
 
-https://www.youtube.com/watch?v=S9RYeOUgGUQ
-
 quote: |
   Millions of people visit the Firefox website daily, so this was a rare opportunity to teach about coding within that context. It was surprisingly challenging because I had to balance having a learning objective of teaching CSS with the fact that I couldn't get too technical on such a widely accessed page.
 title: Hack Firefox

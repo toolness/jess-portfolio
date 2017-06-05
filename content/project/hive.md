@@ -12,6 +12,7 @@ links:
   url: http://hivenyc.org/2015/12/18/hive-featured-in-u-s-department-of-education-report/
 quote: |
   Working with all of these different kinds of youth focused professionals who were taking risks with technology, helped the organizations to see each other as collaborators and not funding competitors. It was very rewarding.
+  Working with all of these different kinds of youth focused professionals who were taking risks with technology, helped the organizations to see each other as collaborators and not funding competitors. It was very rewarding.
 - title: Hive Learning Network
 ---
 
