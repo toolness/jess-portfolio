@@ -1,11 +1,10 @@
 ---
-core_value: learning through doing cool stuff
+core_value: open practices
 date: 2017-06-05T12:04:59-04:00
 featured_img_alt_text: |
-  A playful drawing of the mascot of this cool project, a girl in a yellow
-  outfit with a blue cape and goggles.
+  A wall filled with colorful post-it notes
 featured_in:
-  title: The Cool Online Publication
+  title: The Department of Education
 links:
 - title: Visit the site
   url: https://hivelearningnetworks.org/
