@@ -6,10 +6,22 @@
     <description>Recent content on Jess Klein is a maker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2017 12:04:59 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 15:05:13 -0400</lastBuildDate>
     
 	<atom:link href="https://toolness.github.io/jess-portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Badges</title>
+      <link>https://toolness.github.io/jess-portfolio/project/open-badges/</link>
+      <pubDate>Mon, 05 Jun 2017 15:05:13 -0400</pubDate>
+      
+      <guid>https://toolness.github.io/jess-portfolio/project/open-badges/</guid>
+      <description>Challenge How might we recognize learning that is happening everywhere?
+Engagement strategy Work with community based organizations to develop a network of organizations (who may be a part of the same communities of interest) to take shared risks around technology.
+Design strategy Work with global open communities to create a suite of tools to recognize learning and skill development.
+Solution As the founding Creative Director, developed an ecosystem of tools for learners and those who support learning to earn, assess, issue and display digital micro-credentials, as well as resources for employers who might want access to job applicant credentials.</description>
+    </item>
     
     <item>
       <title>Hive Learning Network</title>
