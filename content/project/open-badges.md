@@ -5,7 +5,7 @@ featured_img_alt_text: |
   A playful drawing of the mascot of this cool project, a girl in a yellow
   outfit with a blue cape and goggles.
 featured_in:
-  title: The Cool Online Publication
+  title: The NY Times
 links:
 - title: Try it
   url: https://openbadges.org/
