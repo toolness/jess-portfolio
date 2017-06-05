@@ -10,9 +10,9 @@ quote: |
   out-of-school programs approach coding.
 links:
   - title: "Try it"
-    url: http://example.org/
-  - title: "Read the blogpost"
-    url: http://example.org/
+    url: http://hackasaurus.toolness.org/en-US/
+  - title: "Watch demo"
+    url: https://www.youtube.com/watch?v=AOSAx7karNg
 featured_in:
   title: "The Atlantic"
 ---
@@ -25,24 +25,21 @@ the Web.
 ## Engagement strategy
 
 Run hack-jams with the New York and Chicago Public Libraries to user test how
-might we design web development learning experiences that meet youth where 
+might we design web development learning experiences that meet youth where
 they are on the Web.
- 
+
 ## Design strategy
 
-Help teens hack the websites that they regularly visit.
+Help teens remix the websites that they regularly with a bookmarklet. Teach the educators who support youth hackers so that they can be involved in the learning activity.
+
 
 ## Solution
 
-Design a prototype tool (Hackasaurus) and curriculum to make it easy for anyone 
+We designed a bookmarklet and curriculum to make it easy for anyone
 to uncover and mess around with the building blocks that make up the web—
-empowering them to move from digital consumer.
+empowering them to move from digital consumer. The [X-Ray Goggles bookmarklet](https://goggles.mozilla.org/) helps you to look under the hood of a website and then remix the code.
 
 ## Process
 
-Both projects were conceived of, designed and implemented with Atul Varma. 
-during our time at Mozilla.
-
-TODO: Insert goggles screenshot here.
-
-The X-Ray Goggles bookmarklet helps you to look under the hood of a website and then remix the code.
+This project was conceived of, designed, and, implemented with Atul Varma.
+during our time at Mozilla. We worked very closely with radical librarians in New York and Chicago initially, and this morphed into a huge international collaboration with educators and youth from Newark to Nairobi. We worked iteratively, testing and tweaking the tools and updating (and localizing) the curriculum.
