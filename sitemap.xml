@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://toolness.github.io/jess-portfolio/project/hive/</loc>
+    <lastmod>2017-06-05T12:04:59-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://toolness.github.io/jess-portfolio/categories/</loc>
     <priority>0</priority>
   </url>
@@ -13,6 +18,7 @@
   
   <url>
     <loc>https://toolness.github.io/jess-portfolio/</loc>
+    <lastmod>2017-06-05T12:04:59-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -22,6 +28,7 @@
   
   <url>
     <loc>https://toolness.github.io/jess-portfolio/project/</loc>
+    <lastmod>2017-06-05T12:04:59-04:00</lastmod>
     <priority>0</priority>
   </url>
   
