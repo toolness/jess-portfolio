@@ -38,4 +38,4 @@ Acting as the initial Creative Director and working as part of the founding team
 
 ## Process
 
-I worked on this when I was at the Social Science Research Council, and the project eventually got taken over by Mozilla. I helped to incubate the project by running design charettes with cultural organizations in New York and Chicago. Eventually these charettes produced pilot projects that informed the development of the current iteration of the network. I collaborated with organizations in various cities all over the world to localize the pilot projects and to advocate for learning networks.  
+I worked on this when I was at the Social Science Research Council, and the project eventually got taken over by Mozilla. I helped to incubate the project by running design charrettes with cultural organizations in New York and Chicago. Eventually these charrettes produced pilot projects that informed the development of the current iteration of the network. I collaborated with organizations in various cities all over the world to localize the pilot projects and to advocate for learning networks.  
