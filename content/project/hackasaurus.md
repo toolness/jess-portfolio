@@ -47,3 +47,7 @@ during our time at Mozilla. We worked very closely with radical librarians in Ne
 <img src="hacking.png" alt="view of bookmarklet in action">
 
 <caption align="center"> The bookmarklet in action remixing an image. </caption>
+
+<img src="earlymockup.png" alt="totally marked up mockup">
+
+<caption align="center"> This is an early mockup of the editor. Lot's of mark up! </caption>
