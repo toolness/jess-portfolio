@@ -43,3 +43,7 @@ empowering them to move from digital consumer. The [X-Ray Goggles bookmarklet](h
 
 This project was conceived of, designed, and, implemented with Atul Varma.
 during our time at Mozilla. We worked very closely with radical librarians in New York and Chicago initially, and this morphed into a huge international collaboration with educators and youth from Newark to Nairobi. We worked iteratively, testing and tweaking the tools and updating (and localizing) the curriculum.
+
+<img src="hacking.png" alt="view of bookmarklet in action">
+
+<caption align="center"> The bookmarklet in action remixing an image. </caption>
