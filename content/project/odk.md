@@ -29,12 +29,10 @@ Provide tools to practitioners collaborating in distributed environments.
 
 Create a toolkit of methods (Open Design Kit) so that anyone: practitioners, clients, and collaborators can learn how to be productive and happy in this kind of collaboration. The Kit was designed as an open source project so that any kind of maker can contribute to it.
 
-As a result of the interventions, PomBot was created to faciliate synchronous yet distributed co-working via the Slack chat client. PomBot remixes the Pomodoro time management technique to support pair designing.
-
 ## Process
 
 Open Design Kit was incubated with my colleagues at [Bocoup](https://bocoup.com/).
 
 <img src="odk.png" alt="mobile mockup of open design kit">
 
-<caption align="center"> Here's a mobile mockup of Open Design Kit features. </caption>
+<caption align="center"> Here's a mobile mockup of Open Design Kit method, process, and contribute features. </caption>
