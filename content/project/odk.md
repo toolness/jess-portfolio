@@ -34,3 +34,7 @@ As a result of the interventions, PomBot was created to faciliate synchronous ye
 ## Process
 
 Open Design Kit was incubated with my colleagues at [Bocoup](https://bocoup.com/).
+
+<img src="odk.png" alt="mobile mockup of open design kit">
+
+<caption align="center"> Here's a mobile mockup of Open Design Kit features. </caption>
