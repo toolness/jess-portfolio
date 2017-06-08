@@ -36,3 +36,5 @@ We launched the snippet (the little piece of interactive copy underneath the sea
 ## Process
 
 I iterated a ton on trying to get this interaction as minimal as possible. This was the first time that Firefox had ever used that real estate for something truly interactive so we had a lot of creative freedom (although internal skepticism) and some clear constraints to ensure that the interaction didn't consume processing speed.
+
+<img src="snippet.png" alt="firefox start page with remixed background color">
