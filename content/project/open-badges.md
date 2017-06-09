@@ -39,6 +39,6 @@ As the founding Creative Director, developed an ecosystem of tools for learners 
 
 I worked closely with different kinds of organizations that we were exploring offering non traditional credentials. After researching, doing interviews and, a ton of listening, we piloted the [Chicago Summer of Learning](https://chicagocityoflearning.org/) project in conjunction with Mayor Rahm Emanuel and the MacArthur Foundation to test out some ideas for out - of -  school youth educational programming. This work provided the foundation for much of the technical and social thinking around badges that continues around the world to this day.
 
-<img src="sketch.jpg" alt="sketch of badge dashboard">
+<img src="sketch.png" alt="sketch of badge dashboard">
 
 <caption align="center"> Concept sketch for a badge dashboard. </caption>
