@@ -41,4 +41,4 @@ I worked closely with different kinds of organizations that we were exploring of
 
 <img src="sketch.png" alt="sketch of badge dashboard">
 
-<caption align="center"> Concept sketch for a badge dashboard. </caption>
+<caption align="center"> Concept sketches for a remixer badge and a badge dashboard. </caption>
