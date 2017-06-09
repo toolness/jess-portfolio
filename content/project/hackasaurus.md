@@ -51,3 +51,10 @@ during our time at Mozilla. We worked very closely with radical librarians in Ne
 <img src="earlymockup.png" alt="totally marked up mockup">
 
 <caption align="center"> This is an early mockup of the editor. Lot's of mark up! </caption>
+
+<img src="hack-learn1.png" alt="teach the teachers guide to html and css">
+<img src="hack-learn2.png" alt="I.T. checklist for hosting events">
+<img src="hack-learn3.png" alt="how to hack - a users guide">
+<img src="hack-learn4.png" alt="goggles cheat sheet">
+
+<caption align="center"> I created a ton of learning resources: (left to right)Teach the Teachers Guide, I.T. checklist for hosting events, How to Hack - a users guide, Goggles cheat sheet. </caption>
