@@ -18,6 +18,7 @@ window.addEventListener('DOMContentLoaded', function() {
     document.body.insertBefore(bgEl, document.body.firstChild);
 
     resize();
+    window.addEventListener('load', resize);
     window.addEventListener('resize', resize);
   });
 });
