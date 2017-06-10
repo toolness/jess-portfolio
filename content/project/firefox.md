@@ -5,6 +5,7 @@ featured_img_alt_text: |
   A browser that is being edited to change the background color.
 featured_in:
   title: Mozilla
+highlight_color: pink
 links:
 - title: Watch demo
   url: https://www.youtube.com/watch?v=S9RYeOUgGUQ

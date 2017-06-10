@@ -33,8 +33,16 @@ body, button, input, select, textarea {
   margin-bottom: 0.75rem;
 }
 
-.content.is-jess-core-value span {
-  background-color: lightyellow;
+.jess-highlight-yellow {
+  background-color: rgba(243, 222, 135, 1.00);
+}
+
+.jess-highlight-blue {
+  background-color: rgba(90, 201, 238, 0.80);
+}
+
+.jess-highlight-pink {
+  background-color: rgba(231, 90, 238, 0.64);
 }
 
 .section.is-jess-header {

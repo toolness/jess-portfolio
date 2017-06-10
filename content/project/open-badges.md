@@ -14,6 +14,7 @@ links:
 quote: |
   I was compelled by the idea of students owning their learning data (rather than just schools and employers). Owning this data can be empowering and gives individuals the chance to embrace and recognize the skill development that they are doing in non-traditional environments.
 title: Open Badges
+highlight_color: pink
 ---
 
 ## Challenge

@@ -15,7 +15,7 @@
   {{ if modBool $i $cols }}<div class="columns">{{ end }}
     <div class="column is-jess-project">
       <div class="content has-text-centered is-jess-core-value">
-        <span>{{ .Params.core_value }}</span>
+        <span class="jess-highlight-{{ .Params.highlight_color }}">{{ .Params.core_value }}</span>
       </div>
       {{/* We're hiding the thumbnail from screen readers because
          * it's largely decorative in this context, and just adds

@@ -6,6 +6,7 @@ quote: |
 
 featured_in:
   title: "whitehouse.org"
+highlight_color: pink
 ---
 
 ## Challenge

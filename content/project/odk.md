@@ -3,6 +3,7 @@ title: Open Design Kit
 core_value: "collaboration"
 quote: |
   I work with people who love “open design” in theory, but we needed a common set of methods so that on a very practical level, every project stakeholder understands how to collaborate.
+highlight_color: blue
 featured_in:
   title: "the Creative Commons Summit"
   links:
@@ -10,7 +11,6 @@ featured_in:
       url: http://opendesignkit.org/
     - title: "Read the blogpost"
       url: https://bocoup.com/weblog/open-design-kit-a-toolkit-for-designing-with-distributed-collaborators
-
 ---
 
 ## Challenge

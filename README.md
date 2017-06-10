@@ -95,6 +95,9 @@ fields we use:
 
   > Good design should support _____________.
 
+* `highlight_color` is the highlight color to use for the project. It
+  should be one of `blue`, `yellow`, or `pink`.
+
 * `featured_img_alt_text` is the alt text for the project's featured
   image. If the featured image is just a logo or something else purely
   decorative, this can be left blank, but if it helps a vision-impaired
