@@ -29,6 +29,14 @@ body, button, input, select, textarea {
   font-family: 'Montserrat';
 }
 
+.content.is-jess-core-value {
+  margin-bottom: 0.75rem;
+}
+
+.content.is-jess-core-value span {
+  background-color: lightyellow;
+}
+
 .section.is-jess-header {
   padding-top: 24px;
   padding-bottom: 24px;
@@ -39,7 +47,37 @@ body, button, input, select, textarea {
   color: inherit;
 }
 
-.content.has-text-centered p {
+.column.is-jess-project {
+  margin-top: 1em;
+}
+
+.column.is-jess-project h2 {
+  margin-top: 1rem;
+  font-size: 1em;
+  letter-spacing: 2px;
+  font-weight: 400;
+}
+
+.is-jess-as-featured-in {
+  margin-top: 2em;
+  color: gray;
+  text-transform: uppercase;
+  font-size: 0.66em;
+  letter-spacing: 4px;
+}
+
+.is-jess-as-featured-in em {
+  display: block;
+  letter-spacing: 0;
+  font-style: normal;
+  text-transform: none;
+}
+
+.column.is-jess-project h2 a {
+  color: inherit;
+}
+
+.content.is-jess-lowercase p {
   text-transform: lowercase;
 }
 

@@ -1,5 +1,11 @@
 {{ partial "header" . }}
 
+<div class="content has-text-centered is-jess-quote">
+  <p>
+    Hi, I'm Jess Klein. I think that good design should support:
+  </p>
+</div>
+
 {{ $cols := 3 }}
 
 {{ $pages := sort .Pages }}
@@ -7,17 +13,23 @@
 {{ range $i, $page := $pages }}
   {{ $isLast := (eq $i (sub (len $pages) 1)) }}
   {{ if modBool $i $cols }}<div class="columns">{{ end }}
-    <div class="column">
+    <div class="column is-jess-project">
+      <div class="content has-text-centered is-jess-core-value">
+        <span>{{ .Params.core_value }}</span>
+      </div>
       {{/* We're hiding the thumbnail from screen readers because
          * it's largely decorative in this context, and just adds
-         * duplicate links that could confuse the reader too. */}}
-      <a href="{{ $page.Permalink }}" aria-hidden="true">
+         * duplicate links that could confuse the reader too.
+         * For similar reasons, we'll omit it from the default tab
+         * order. */}}
+      <a href="{{ $page.Permalink }}" aria-hidden="true" tabindex="-1">
         <img src="/project/{{ .Source.BaseFileName }}/_featured.png"
              alt="">
       </a>
-      <a href="{{ $page.Permalink }}">{{ .Title }}</a>
-      supports <strong>{{ .Params.core_value }}</strong>
-      and is featured in <em>{{ .Params.featured_in.title }}</em>.
+      <div class="content has-text-centered">
+        <h2><a href="{{ $page.Permalink }}">{{ .Title }}</a></h2>
+        <div class="is-jess-as-featured-in">as featured in <em>{{ .Params.featured_in.title }}</em></div>
+      </div>
     </div>
   {{ if or (modBool (add $i 1) $cols) $isLast }}</div>{{ end }}
 {{ end }}
