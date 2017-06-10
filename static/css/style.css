@@ -1,17 +1,38 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../vendor/montserrat/Montserrat-Regular.otf");
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  src: url("../vendor/montserrat/Montserrat-SemiBold.otf");
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url("../vendor/montserrat/Montserrat-Bold.otf");
+}
+
 html {
   /* This PNG is made by Tomislava Babić and taken from:
    * https://www.toptal.com/designers/subtlepatterns/?s=hip+square */
   background: url(../vendor/subtlepatterns/hip-square.png);
 }
 
+body, button, input, select, textarea {
+  font-family: 'Montserrat';
+}
+
 .section.is-jess-header {
   padding-top: 24px;
   padding-bottom: 24px;
   background: inherit;
-}
-
-.section.is-jess-header h1 {
-  font-weight: 600;
 }
 
 .section.is-jess-header h1 a {
@@ -48,7 +69,11 @@ footer.footer a.icon:last-child {
 
 .content h2 {
   font-size: 1.5em;
-  font-weight: 700;
+  font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 4px;
+}
+
+strong {
+  font-weight: 600;
 }
