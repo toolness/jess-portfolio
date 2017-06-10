@@ -33,6 +33,11 @@ body, button, input, select, textarea {
   margin-bottom: 0.75rem;
 }
 
+.jess-highlight-bg {
+  position: absolute;
+  transform: rotate(-4deg);
+}
+
 .jess-highlight-yellow {
   background-color: rgba(243, 222, 135, 0.80);
 }

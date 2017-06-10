@@ -1,7 +1,7 @@
 {{ partial "header" . }}
 
 <div class="content has-text-centered is-jess-lowercase">
-  <p>Good design should support <strong>{{ .Params.core_value }}</strong></p>
+  <p>Good design should support <span data-jess-highlight="jess-highlight-{{ .Params.highlight_color }}">{{ .Params.core_value }}</span></p>
   <h2>{{ .Title }}</h2>
   <br>
   {{ range .Params.links }}
