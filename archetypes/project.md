@@ -10,6 +10,7 @@ links:
     url: http://example.org/
   - title: "Read the blogpost"
     url: http://example.org/
+highlight_color: blue
 featured_in:
   title: "The Cool Online Publication"
 ---

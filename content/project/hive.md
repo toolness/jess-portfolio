@@ -5,6 +5,7 @@ featured_img_alt_text: |
   A wall filled with colorful post-it notes
 featured_in:
   title: The Department of Education
+highlight_color: yellow
 links:
 - title: Visit the site
   url: https://hivelearningnetworks.org/

@@ -15,6 +15,7 @@ links:
     url: https://www.youtube.com/watch?v=AOSAx7karNg
 featured_in:
   title: "The Atlantic"
+highlight_color: blue
 ---
 
 ## Challenge

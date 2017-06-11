@@ -5,7 +5,7 @@ featured_img_alt_text: |
   A playful drawing of the mascot of this cool project, a girl in a yellow
   outfit with a blue cape and goggles.
 featured_in:
-  title: The NY Times
+  title: The New York Times
 links:
 - title: Try it
   url: https://openbadges.org/
@@ -14,6 +14,7 @@ links:
 quote: |
   I was compelled by the idea of students owning their learning data (rather than just schools and employers). Owning this data can be empowering and gives individuals the chance to embrace and recognize the skill development that they are doing in non-traditional environments.
 title: Open Badges
+highlight_color: pink
 ---
 
 ## Challenge
