@@ -21,7 +21,8 @@
 
 4. By default, your project has a placeholder featured image. You'll
    want to give it a real one by overwriting
-   `static/project/my-cool-project/_featured.png`.
+   `static/project/my-cool-project/_featured.png` and
+   `static/project/my-cool-project/_featured_thumb.png`.
 
 5. Be sure to add the new files to your git repository with e.g.
    `git add content static`.
