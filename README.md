@@ -1,6 +1,6 @@
 ## Quick start
 
-* [Download Hugo](https://github.com/spf13/hugo/releases).
+* [Download Hugo v0.30](https://github.com/gohugoio/hugo/releases/tag/v0.30).
 
 * Untar or unzip the archive and copy the `hugo` / `hugo.exe`
   executable to somewhere on your `PATH`.
