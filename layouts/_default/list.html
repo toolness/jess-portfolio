@@ -8,7 +8,8 @@
 
 {{ $cols := 3 }}
 
-{{ $pages := sort .Pages }}
+{{ $pages := where .Pages "Type" "project" }}
+{{ $pages := sort $pages }}
 
 {{ range $i, $page := $pages }}
   {{ $isLast := (eq $i (sub (len $pages) 1)) }}
@@ -33,5 +34,9 @@
     </div>
   {{ if or (modBool (add $i 1) $cols) $isLast }}</div>{{ end }}
 {{ end }}
+
+<div class="content has-text-centered">
+  <a href="/zines/">View my zines</a>
+</div>
 
 {{ partial "footer" . }}

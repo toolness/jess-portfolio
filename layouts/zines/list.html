@@ -1,0 +1,28 @@
+{{ partial "header" . }}
+
+<div class="content has-text-centered is-jess-quote">
+  <p>
+    Hi, I'm Jess Klein. Here are my zines!
+  </p>
+</div>
+
+{{ $cols := 3 }}
+
+{{ $pages := sort .Pages }}
+
+{{ range $i, $page := $pages }}
+  {{ $isLast := (eq $i (sub (len $pages) 1)) }}
+  {{ if modBool $i $cols }}<div class="columns">{{ end }}
+    <div class="column is-jess-project">
+      <div class="content has-text-centered is-jess-core-value">
+        <span data-jess-highlight="jess-highlight-{{ .Params.highlight_color }}"><a href="{{ $page.Permalink }}" style="color: inherit">{{ .Params.title }}</a></span>
+      </div>
+    </div>
+  {{ if or (modBool (add $i 1) $cols) $isLast }}</div>{{ end }}
+{{ end }}
+
+<div class="content has-text-centered">
+  <a href="..">Back</a>
+</div>
+  
+{{ partial "footer" . }}

@@ -1,0 +1,30 @@
+{{ partial "header" . }}
+
+<div class="content has-text-centered is-jess-lowercase">
+  <h2>{{ .Title }}</h2>
+  <br>
+</div>
+
+<div class="content">
+
+{{ .Content }}
+
+<p>
+  <small>
+  {{ range .Params.tags }}
+    #{{ . }}
+  {{ end }}
+  </small>
+</p>
+
+<p><a href="nofold.pdf">No-folding-needed version (PDF)</a></p>
+<p><a href="fold.pdf">Folding-needed version (PDF)</a></p>
+<p><small><a href="https://www.youtube.com/watch?v=Ixqr9e3wCxI&t=6s" target="_blank">How to fold it </a></small></p>
+
+<div class="content has-text-centered">
+  <a href="..">Back</a>
+</div>
+  
+</div>
+
+{{ partial "footer" . }}
