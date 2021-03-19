@@ -17,14 +17,14 @@
   </small>
 </p>
 
-{{ $nofolding_needed_pdf := (printf "/zines/%s/fold.pdf" .File.BaseFileName )}}
+{{ $nofolding_needed_pdf := (printf "/static/zines/%s/fold.pdf" .File.BaseFileName )}}
 {{ if fileExists $nofolding_needed_pdf }}
 <p><a href="nofold.pdf">No-folding-needed version (PDF)</a></p>
 {{ end }}
 
-{{ $folding_needed_pdf := (printf "/zines/%s/fold.pdf" .File.BaseFileName )}}
+{{ $folding_needed_pdf := (printf "/static/zines/%s/fold.pdf" .File.BaseFileName )}}
 {{ if fileExists $folding_needed_pdf }}
-<p><a href="{{ $folding_needed_pdf }}">Folding-needed version (PDF)</a></p>
+<p><a href="fold.pdf">Folding-needed version (PDF)</a></p>
 <p><small><a href="https://www.youtube.com/watch?v=Ixqr9e3wCxI&t=6s" target="_blank">How to fold it </a></small></p>
 {{ end }}
 
