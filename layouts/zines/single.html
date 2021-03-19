@@ -17,7 +17,7 @@
   </small>
 </p>
 
-{{ $nofolding_needed_pdf := (printf "/static/zines/%s/fold.pdf" .File.BaseFileName )}}
+{{ $nofolding_needed_pdf := (printf "/static/zines/%s/nofold.pdf" .File.BaseFileName )}}
 {{ if fileExists $nofolding_needed_pdf }}
 <p><a href="nofold.pdf">No-folding-needed version (PDF)</a></p>
 {{ end }}
