@@ -1,0 +1,12 @@
+version: "2.4"
+services:
+  app:
+    build:
+      context: docker
+    volumes:
+      - .:/app
+    working_dir: /app
+    platform: "linux/amd64"
+    command: hugo serve --bind 0.0.0.0
+    ports:
+      - 1313:1313
