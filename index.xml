@@ -1,85 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jess Klein is a maker</title>
     <link>https://toolness.github.io/jess-portfolio/</link>
     <description>Recent content on Jess Klein is a maker</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Jun 2017 15:45:30 -0400</lastBuildDate>
-    
-	<atom:link href="https://toolness.github.io/jess-portfolio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://toolness.github.io/jess-portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hack Firefox</title>
       <link>https://toolness.github.io/jess-portfolio/project/firefox/</link>
       <pubDate>Mon, 05 Jun 2017 15:45:30 -0400</pubDate>
-      
       <guid>https://toolness.github.io/jess-portfolio/project/firefox/</guid>
-      <description>Challenge Teach a browser website visitor about CSS within a 30 second page visit.
-Engagement strategy I was tasked with using this real estate to promote Maker Party, Mozilla&amp;rsquo;s global campaign to &amp;ldquo;teach the web&amp;rdquo;, uniting educators, organizations and enthusiastic web users with hands-on learning and making. I saw this as an interesting opportunity for Mozilla to show (vs. tell) what Maker Party is all about.
-Design strategy I chose a clean and simple learning objective of having users change the background color of the webpage.</description>
+      <description>&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;&#xA;&lt;p&gt;Teach a browser website visitor about CSS within a 30 second page visit.&lt;/p&gt;&#xA;&lt;h2 id=&#34;engagement-strategy&#34;&gt;Engagement strategy&lt;/h2&gt;&#xA;&lt;p&gt;I was tasked with using this real estate to promote Maker Party, Mozilla&amp;rsquo;s global campaign to &amp;ldquo;teach the web&amp;rdquo;, uniting educators, organizations and enthusiastic web users with hands-on learning and making. I saw this as an interesting opportunity for Mozilla to show (vs. tell) what Maker Party is all about.&lt;/p&gt;&#xA;&lt;h2 id=&#34;design-strategy&#34;&gt;Design strategy&lt;/h2&gt;&#xA;&lt;p&gt;I chose a clean and simple learning objective of having users change the background color of the webpage.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Open Badges</title>
       <link>https://toolness.github.io/jess-portfolio/project/open-badges/</link>
       <pubDate>Mon, 05 Jun 2017 15:05:13 -0400</pubDate>
-      
       <guid>https://toolness.github.io/jess-portfolio/project/open-badges/</guid>
-      <description>Challenge How might we recognize learning that is happening everywhere?
-Engagement strategy Work with community based organizations to develop a network of organizations (who may be a part of the same communities of interest) to take shared risks around technology.
-Design strategy Work with global open communities to create a suite of tools to recognize learning and skill development.
-Solution As the founding Creative Director, developed an ecosystem of tools for learners and those who support learning to earn, assess, issue and display digital micro-credentials, as well as resources for employers who might want access to job applicant credentials.</description>
+      <description>&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;&#xA;&lt;p&gt;How might we recognize learning that is happening everywhere?&lt;/p&gt;&#xA;&lt;h2 id=&#34;engagement-strategy&#34;&gt;Engagement strategy&lt;/h2&gt;&#xA;&lt;p&gt;Work with community based organizations to develop a network of organizations (who may be a part of the same communities of interest)  to take shared risks around technology.&lt;/p&gt;&#xA;&lt;h2 id=&#34;design-strategy&#34;&gt;Design strategy&lt;/h2&gt;&#xA;&lt;p&gt;Work with global open communities to create a suite of tools to recognize learning and skill development.&lt;/p&gt;&#xA;&lt;h2 id=&#34;solution&#34;&gt;Solution&lt;/h2&gt;&#xA;&lt;p&gt;As the founding Creative Director, developed an ecosystem of tools for learners and those who support learning to earn, assess, issue and display digital micro-credentials, as well as resources for employers who might want access to job applicant credentials.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hive Learning Network</title>
       <link>https://toolness.github.io/jess-portfolio/project/hive/</link>
       <pubDate>Mon, 05 Jun 2017 12:04:59 -0400</pubDate>
-      
       <guid>https://toolness.github.io/jess-portfolio/project/hive/</guid>
-      <description>Challenge How might we support learning that is happening everywhere?
-Engagement strategy Work with community based organizations to develop a network of organizations (who may be a part of the same communities of interest) to take shared risks around technology.
-Design strategy Work with global open communities to create a suite of tools to recognize learning and skill development.
-Solution Acting as the initial Creative Director and working as part of the founding team with the MacArthur Foundation networks, the Hive Learning Network started out as a proof of concept in New York and Chicago in 2010.</description>
+      <description>&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;&#xA;&lt;p&gt;How might we support learning that is happening everywhere?&lt;/p&gt;&#xA;&lt;h2 id=&#34;engagement-strategy&#34;&gt;Engagement strategy&lt;/h2&gt;&#xA;&lt;p&gt;Work with community based organizations to develop a network of organizations (who may be a part of the same communities of interest)  to take shared risks around technology.&lt;/p&gt;&#xA;&lt;h2 id=&#34;design-strategy&#34;&gt;Design strategy&lt;/h2&gt;&#xA;&lt;p&gt;Work with global open communities to create a suite of tools to recognize learning and skill development.&lt;/p&gt;&#xA;&lt;h2 id=&#34;solution&#34;&gt;Solution&lt;/h2&gt;&#xA;&lt;p&gt;Acting as the initial Creative Director and working as part of the founding team with the MacArthur Foundation networks, the Hive Learning Network started out as a proof of concept in New York and Chicago in 2010. It has since become a global movement based around collaborative experimentation, leadership  and risk taking. The current effort is being sheparded by the Mozilla Foundation.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Birds I&#39;ve seen in NYC</title>
+      <link>https://toolness.github.io/jess-portfolio/zines/nyc-birds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolness.github.io/jess-portfolio/zines/nyc-birds/</guid>
+      <description>&lt;p&gt;Cool.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Design lessons from a year in quarantine</title>
+      <link>https://toolness.github.io/jess-portfolio/zines/design-lessons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolness.github.io/jess-portfolio/zines/design-lessons/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve spent a lot of time working remotely in 2020-2021 so I consolidated some of the things I&amp;rsquo;ve learned. In this zine I&amp;rsquo;ll explain:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;sharing your design process&lt;/li&gt;&#xA;&lt;li&gt;productivity hacks&lt;/li&gt;&#xA;&lt;li&gt;async and sync collaboration techniques&lt;/li&gt;&#xA;&lt;li&gt;feedback best practices&lt;/li&gt;&#xA;&lt;li&gt;the importance of communicating gratitude&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Hackasaurus</title>
       <link>https://toolness.github.io/jess-portfolio/project/hackasaurus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://toolness.github.io/jess-portfolio/project/hackasaurus/</guid>
-      <description>Challenge It&amp;rsquo;s difficult to ask teens to go into sandbox environments to learn how to edit the Web.
-Engagement strategy Run hack-jams with the New York and Chicago Public Libraries to user test how might we design web development learning experiences that meet youth where they are on the Web.
-Design strategy Help teens remix the websites that they regularly with a bookmarklet. Teach the educators who support youth hackers so that they can be involved in the learning activity.</description>
+      <description>&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;&#xA;&lt;p&gt;It&amp;rsquo;s difficult to ask teens to go into sandbox environments to learn how to edit&#xA;the Web.&lt;/p&gt;&#xA;&lt;h2 id=&#34;engagement-strategy&#34;&gt;Engagement strategy&lt;/h2&gt;&#xA;&lt;p&gt;Run hack-jams with the New York and Chicago Public Libraries to user test how&#xA;might we design web development learning experiences that meet youth where&#xA;they are on the Web.&lt;/p&gt;&#xA;&lt;h2 id=&#34;design-strategy&#34;&gt;Design strategy&lt;/h2&gt;&#xA;&lt;p&gt;Help teens remix the websites that they regularly with a bookmarklet. Teach the educators who support youth hackers so that they can be involved in the learning activity.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Open Design Kit</title>
       <link>https://toolness.github.io/jess-portfolio/project/odk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://toolness.github.io/jess-portfolio/project/odk/</guid>
-      <description>Challenge Working openly with distributed teams can be complicated.
-Engagement strategy Stage a few interventions with different kinds of teams to try to uncover practices and challenges unique to this specific kind of design.
-Design strategy Provide tools to practitioners collaborating in distributed environments.
-Solution Create a toolkit of methods (Open Design Kit) so that anyone: practitioners, clients, and collaborators can learn how to be productive and happy in this kind of collaboration.</description>
+      <description>&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;&#xA;&lt;p&gt;Working openly with distributed teams can be complicated.&lt;/p&gt;&#xA;&lt;h2 id=&#34;engagement-strategy&#34;&gt;Engagement strategy&lt;/h2&gt;&#xA;&lt;p&gt;Stage a few interventions with different kinds of teams to try to uncover practices and challenges unique to this specific kind of design.&lt;/p&gt;&#xA;&lt;h2 id=&#34;design-strategy&#34;&gt;Design strategy&lt;/h2&gt;&#xA;&lt;p&gt;Provide tools to practitioners collaborating in distributed environments.&lt;/p&gt;&#xA;&lt;h2 id=&#34;solution&#34;&gt;Solution&lt;/h2&gt;&#xA;&lt;p&gt;Create a toolkit of methods (Open Design Kit) so that anyone: practitioners, clients, and collaborators can learn how to be productive and happy in this kind of collaboration. The Kit was designed as an open source project so that any kind of maker can contribute to it.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rockaway</title>
       <link>https://toolness.github.io/jess-portfolio/project/rockaway/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://toolness.github.io/jess-portfolio/project/rockaway/</guid>
-      <description>Challenge Local residents of the superstorm Sandy affected community in Rockaway Beach, NY want to be involved in rebuilding - by helping themselves
-Engagement strategy Co-create hack jams,learning labs, and, prototype rebuilding opportunities.
-Design strategy Uplevel prototypes to create emergency preparedness tools.
-Solution Create a crisis response system that builds on top of existing technology used by community based, grassroot and established relief organizations to streamline communications and leverage data in order to develop a peer recognition system that can be used as part of an Emergency Response Kit for cities.</description>
+      <description>&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;&#xA;&lt;p&gt;Local residents of the superstorm Sandy affected community in Rockaway Beach, NY want to be involved in rebuilding - by helping themselves&lt;/p&gt;&#xA;&lt;h2 id=&#34;engagement-strategy&#34;&gt;Engagement strategy&lt;/h2&gt;&#xA;&lt;p&gt;Co-create hack jams,learning labs, and, prototype rebuilding opportunities.&lt;/p&gt;&#xA;&lt;h2 id=&#34;design-strategy&#34;&gt;Design strategy&lt;/h2&gt;&#xA;&lt;p&gt;Uplevel prototypes to create emergency preparedness tools.&lt;/p&gt;&#xA;&lt;h2 id=&#34;solution&#34;&gt;Solution&lt;/h2&gt;&#xA;&lt;p&gt;Create a crisis response system that builds on top of existing technology used by community based, grassroot and established relief organizations to streamline communications and leverage data in order to develop a peer recognition system that can be used as part of an Emergency Response Kit for cities.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

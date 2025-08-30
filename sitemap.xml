@@ -1,53 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://toolness.github.io/jess-portfolio/project/firefox/</loc>
     <lastmod>2017-06-05T15:45:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://toolness.github.io/jess-portfolio/project/open-badges/</loc>
-    <lastmod>2017-06-05T15:05:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://toolness.github.io/jess-portfolio/project/hive/</loc>
-    <lastmod>2017-06-05T12:04:59-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://toolness.github.io/jess-portfolio/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://toolness.github.io/jess-portfolio/project/hackasaurus/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://toolness.github.io/jess-portfolio/</loc>
     <lastmod>2017-06-05T15:45:30-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://toolness.github.io/jess-portfolio/project/odk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://toolness.github.io/jess-portfolio/project/</loc>
     <lastmod>2017-06-05T15:45:30-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://toolness.github.io/jess-portfolio/project/open-badges/</loc>
+    <lastmod>2017-06-05T15:05:13-04:00</lastmod>
+  </url><url>
+    <loc>https://toolness.github.io/jess-portfolio/project/hive/</loc>
+    <lastmod>2017-06-05T12:04:59-04:00</lastmod>
+  </url><url>
+    <loc>https://toolness.github.io/jess-portfolio/zines/nyc-birds/</loc>
+  </url><url>
+    <loc>https://toolness.github.io/jess-portfolio/categories/</loc>
+  </url><url>
+    <loc>https://toolness.github.io/jess-portfolio/tags/collaboration/</loc>
+  </url><url>
+    <loc>https://toolness.github.io/jess-portfolio/zines/design-lessons/</loc>
+  </url><url>
+    <loc>https://toolness.github.io/jess-portfolio/project/hackasaurus/</loc>
+  </url><url>
+    <loc>https://toolness.github.io/jess-portfolio/tags/mentorship/</loc>
+  </url><url>
+    <loc>https://toolness.github.io/jess-portfolio/project/odk/</loc>
+  </url><url>
+    <loc>https://toolness.github.io/jess-portfolio/tags/openpractices/</loc>
+  </url><url>
     <loc>https://toolness.github.io/jess-portfolio/project/rockaway/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://toolness.github.io/jess-portfolio/tags/</loc>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://toolness.github.io/jess-portfolio/zines/</loc>
   </url>
-  
 </urlset>
