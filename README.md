@@ -1,19 +1,11 @@
 ## Quick start
 
-### With Docker
-
-* Run `docker-compose up`.
-
-* Visit http://localhost:1313/.
-
-### Without Docker
-
 * [Download Hugo v0.149.0](https://github.com/gohugoio/hugo/releases/tag/v0.149.0).
 
 * Untar or unzip the archive and copy the `hugo` / `hugo.exe`
   executable to somewhere on your `PATH`.
 
-* Run `./hugo serve` in the root of this repository.
+* Run `hugo serve` in the root of this repository.
 
 * Visit http://localhost:1313/.
 
