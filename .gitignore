@@ -5,3 +5,6 @@ hugo
 # Ignore generated content
 public/
 jessklein.is/
+
+# No idea what this is, but hugo keeps making it.
+.hugo_build.lock
