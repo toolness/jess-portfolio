@@ -8,7 +8,7 @@
 
 {{ $cols := 3 }}
 
-{{ $pages := sort .Pages }}
+{{ $pages := sort .RegularPages }}
 
 {{ range $i, $page := $pages }}
   {{ $isLast := (eq $i (sub (len $pages) 1)) }}

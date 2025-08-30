@@ -1,5 +1,7 @@
-baseURL = "http://jessklein.is/"
 languageCode = "en-us"
 title = "Jess Klein is a maker"
-canonifyURLs = true
-MetaDataFormat = "yaml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
