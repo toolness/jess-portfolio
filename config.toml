@@ -1,5 +1,6 @@
 languageCode = "en-us"
 title = "Jess Klein is a maker"
+canonifyURLs = true
 
 [markup]
   [markup.goldmark]
