@@ -8,7 +8,7 @@
 
 {{ $cols := 3 }}
 
-{{ $pages := where .Pages "Type" "project" }}
+{{ $pages := where .Site.RegularPages "Type" "project" }}
 {{ $pages := sort $pages }}
 
 {{ range $i, $page := $pages }}
@@ -24,7 +24,7 @@
          * For similar reasons, we'll omit it from the default tab
          * order. */}}
       <a href="{{ $page.Permalink }}" aria-hidden="true" tabindex="-1">
-        <img src="/project/{{ .Source.BaseFileName }}/_featured.png"
+        <img src="/project/{{ .File.BaseFileName }}/_featured.png"
              alt="">
       </a>
       <div class="content has-text-centered">

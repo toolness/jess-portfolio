@@ -1,5 +1,6 @@
 # Ignore hugo binary if the user has chosen to place it here.
 hugo.exe
+hugo
 
 # Ignore generated content
 public/
