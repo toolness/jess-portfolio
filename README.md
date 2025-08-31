@@ -131,11 +131,8 @@ classes.
 
 ## Deployment
 
-To deploy to *staging*, run `bash deploy.sh`. The site will be
-visible at https://toolness.github.io/jess-portfolio/.
-
-To deploy to *production*, run `bash deploy_to_prod.sh`. The
-site will be visible at http://jessklein.is/.
+To deploy to *production*, run `bash deploy.sh`. The site will be
+visible at https://jessicaklein.com/.
 
 [Go templates]: https://gohugo.io/templates/go-templates/
 [YAML]: https://en.wikipedia.org/wiki/YAML#Basic_components
