@@ -12,7 +12,8 @@ set -o errexit -o nounset
 export STATIC_BRANCH="gh-pages"
 export REPO="toolness/jess-portfolio"
 export STATIC_DIR="public"
-export BASE_URL="https://toolness.github.io/jess-portfolio/"
+export DOMAIN="jessicaklein.com"
+export BASE_URL="https://${DOMAIN}/"
 
 rev=$(git rev-parse --short HEAD)
 
@@ -28,6 +29,7 @@ git remote add upstream "https://github.com/$REPO.git"
 git fetch upstream
 git reset upstream/$STATIC_BRANCH
 
+echo ${DOMAIN} > CNAME
 touch .nojekyll
 touch .
 
