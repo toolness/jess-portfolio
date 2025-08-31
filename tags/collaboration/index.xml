@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collaboration on Jess Klein is a maker</title>
-    <link>https://toolness.github.io/jess-portfolio/tags/collaboration/</link>
+    <link>http://jessicaklein.com/tags/collaboration/</link>
     <description>Recent content in Collaboration on Jess Klein is a maker</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://toolness.github.io/jess-portfolio/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jessicaklein.com/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Birds I&#39;ve seen in NYC</title>
-      <link>https://toolness.github.io/jess-portfolio/zines/nyc-birds/</link>
+      <link>http://jessicaklein.com/zines/nyc-birds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolness.github.io/jess-portfolio/zines/nyc-birds/</guid>
+      <guid>http://jessicaklein.com/zines/nyc-birds/</guid>
       <description>&lt;p&gt;Cool.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Design lessons from a year in quarantine</title>
-      <link>https://toolness.github.io/jess-portfolio/zines/design-lessons/</link>
+      <link>http://jessicaklein.com/zines/design-lessons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolness.github.io/jess-portfolio/zines/design-lessons/</guid>
+      <guid>http://jessicaklein.com/zines/design-lessons/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve spent a lot of time working remotely in 2020-2021 so I consolidated some of the things I&amp;rsquo;ve learned. In this zine I&amp;rsquo;ll explain:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;sharing your design process&lt;/li&gt;&#xA;&lt;li&gt;productivity hacks&lt;/li&gt;&#xA;&lt;li&gt;async and sync collaboration techniques&lt;/li&gt;&#xA;&lt;li&gt;feedback best practices&lt;/li&gt;&#xA;&lt;li&gt;the importance of communicating gratitude&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

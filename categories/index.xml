@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jess Klein is a maker</title>
-    <link>https://toolness.github.io/jess-portfolio/categories/</link>
+    <link>http://jessicaklein.com/categories/</link>
     <description>Recent content in Categories on Jess Klein is a maker</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://toolness.github.io/jess-portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jessicaklein.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
